@@ -1,0 +1,2 @@
+# tesztegy
+gyakorlas a githubon
